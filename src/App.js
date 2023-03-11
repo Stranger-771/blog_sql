@@ -9,7 +9,6 @@ import Login from "./pages/Login";
 import Write from "./pages/Write";
 import Single from "./pages/Single";
 import Home from "./pages/Home";
-import { importDeclaration } from "@babel/types";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import "./style.scss";
