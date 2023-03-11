@@ -19,7 +19,7 @@ const Navbar = () => {
           <span>John</span>
           <span>Logout</span>
           <span className="write">
-            <Link to="write">Write</Link>
+            <Link to="/write">Write</Link>
           </span>
         </div>
       </div>
